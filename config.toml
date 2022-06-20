@@ -1,0 +1,7 @@
+baseURL = 'https://fediverse.kr/'
+languageCode = 'ko-kr'
+title = 'fediverse.kr'
+theme = 'fediverse-kr'
+
+[build]
+  writeStats = true

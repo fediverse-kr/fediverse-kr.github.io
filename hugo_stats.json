@@ -1,0 +1,20 @@
+{
+  "htmlElements": {
+    "tags": [
+      "body",
+      "div",
+      "h1",
+      "html",
+      "script"
+    ],
+    "classes": [
+      "jumbotron",
+      "text-center",
+      "title"
+    ],
+    "ids": [
+      "content",
+      "home-jumbotron"
+    ]
+  }
+}
